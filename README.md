@@ -1,4 +1,4 @@
-# Emotion detection using deep learning
+# Emotion detection using deep learning (Streamlit)
 
 ## Introduction
 
