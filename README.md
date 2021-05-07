@@ -11,7 +11,7 @@ I made a CNN model from scratch which gave an accuracy of 60. The github link fo
 Jatin made a model with the help of transfer learning and it gave an accuracy of 75. Since his accuracy was more than my model we decided to make the further project on his model. The github link for his model is :
 https://github.com/jatin090/Jatin-Deep-Learning-Capstone-Face-Emotion-Recognition.git
  
- 
+ ## Deploying streamlit model
 In this repository we have made a front end using streamlit. Streamlit doesn’t provide the live capture feature itself, instead uses a third party API. We used  streamlit-webrtc which helped to deal with real-time video streams. Image captured from the webcam is sent to  VideoTransformer function to detect the emotion.
 
 
