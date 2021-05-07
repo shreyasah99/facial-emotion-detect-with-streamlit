@@ -24,7 +24,7 @@ https://jatin-shreyas-emotions.herokuapp.com/
  
 We tried to deploy the model on azure as well, but same size issue was happening there also. 
 Below is the link of our streamlit model on azure :
-https://jatinandshreyas-emotiondetect.herokuapp.com/
+https://jatin-shreyas-app.azurewebsites.net/
 
  
 Aptfile and setup.sh are needed while deploying only on heroku.
