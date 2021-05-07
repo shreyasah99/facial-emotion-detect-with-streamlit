@@ -19,12 +19,13 @@ Then this model was deployed on heroku platform with the help of buildpack-apt w
 Our final model was of 380 mb and it was successfully deployed but the live stream itself takes 250-300 mb while loading live-stream or opening the webcam. And hence the webcam was not loading or opening and our model was not giving expected output.
 
 Below is the link of our streamlit model on heroku:
-https://github.com/shreyasah99/facial-emotion-detect-with-streamlit.git
+https://jatin-shreyas-emotions.herokuapp.com/
  
  
 We tried to deploy the model on azure as well, but same size issue was happening there also. 
 Below is the link of our streamlit model on azure :
-https://github.com/shreyasah99/facial-emotion-detect-with-flask.git
+https://jatinandshreyas-emotiondetect.herokuapp.com/
+
  
 Aptfile and setup.sh are needed while deploying only on heroku.
 
